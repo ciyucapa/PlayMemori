@@ -1,0 +1,12 @@
+{
+  "name": "Baby-proyect",
+  "displayName": "Baby-proyect",
+  "expo": {
+    "name": "Baby-proyect",
+    "slug": "Baby-proyect",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
